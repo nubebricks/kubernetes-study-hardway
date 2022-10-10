@@ -17,74 +17,47 @@
     08-Kubelet
     09-Kube-Proxy
     10-Pods
-    11-Practice-Test-Introduction
-    12-Practice-Test-PODs
-    13-ReplicaSets
-    14-Practice-Tests-ReplicaSet
-    15-Deployments
-    16-Practice-Tests-Deployments
-    17-Namespaces
-    18-Practice-Test-Namespaces
-    19-Services
-    20-Services-ClusterIP
-    21-Practice-Test-Services
-    22-Imperative-Commands-with-kubectl
-    23-Practice-Test-Imperative-Commands
-    24-Attachments
+    11-ReplicaSets
+    12-Deployments
+    13-Namespaces
+    14-Services
+    15-Services-ClusterIP
+    16-Imperative-Commands-with-kubectl
 
 02-Scheduling
 
     01-Scheduling-Section-Introduction
     02-Manual-Scheduling
-    03-Practice-Test-Manual-Scheduling
-    04-Labels-and-Selectors
-    05-Practice-Test-Scheduling
-    06-Taints-and-Tolerations
-    07-Practice-Test-Taints-and-Tolerations
-    08-Node-Selectors
-    09-Node-Affinity
-    10-Practice-Test-Node-Affinity
-    11.Taints-and-Tolerations-vs-Node-Affinity
-    12-Resource-Limits
-    13-Practice-Test-Resource-Limits
-    14-DaemonSets
-    15-Practice-Test-DaemonSets
-    16-Static-Pods
-    17-Practice-Test-StaticPods
-    18-Multiple-Schedulers
-    19-Practice-Test-Multiple-Schedulers
-    20-Configuring-Kubernetes-Schedulers
-    21-Download-Presentation-Deck
+    03-Labels-and-Selectors
+    04-Taints-and-Tolerations
+    05-Node-Selectors
+    06-Node-Affinity
+    07.Taints-and-Tolerations-vs-Node-Affinity
+    08-Resource-Limits
+    09-DaemonSets
+    10-Static-Pods
+    11-Multiple-Schedulers
+    12-Configuring-Kubernetes-Schedulers
 
 03-Logging-and-Monitoring
 
-    01-Logging-and-Monitoring-Section-Introduction
-    02-Monitor-Cluster-Components
-    03-Practice-Test-Monitor-Cluster-Components
-    04-Managing-Application-Logs
-    05-Download-Presentation-Deck
-    06-Practice-Test-Managing-Application-Logs
+    01-Monitor-Cluster-Components
+    02-Managing-Application-Logs
 
 04-Application-Lifecycle-Management
 
     01-Application-Lifecycle-Management--Section-Introduction
     02-RollingUpdates-and-Rollback
-    03-Practice-Test-RollingUpdates-Rollback
     04-Commands-and-Arguments-in-Docker
     05-Commands-and-Arguments-in-Kubernetes
     06-Practice-Test-Commands-and-Arguments
     07.Configure-Environment-Variables-in-Applications
     08-Configure-ConfigMaps-in-Applications
-    09-Practice-Test-Env-Variables
-    10.Secrets
-    11.Practice-Test-Secrets
-    12.Multi-Containers-PODs
-    13-Practice-Test-Multi-Container-Pods
-    14-Multi-Container-Pods-Design-Patterns
-    15.Init-Containers
-    16-Practice-Test-Init-Containers
-    17.Self-Healing-Applications
-    18.Download-Presentation-Deck
+    09.Secrets
+    10.Multi-Containers-PODs
+    11-Multi-Container-Pods-Design-Patterns
+    12.Init-Containers
+    13.Self-Healing-Applications
 
 05-Cluster-Maintenance
 
@@ -96,9 +69,6 @@
     06-Practice-Test-Cluster-Upgrade-Process
     07-Backup-and-Restore-Methods
     08-Working-With-ETCDCTL
-    09-Practice-Test-Backup-and-Restore-Methods
-    10-Practice-Test-Backup-and-Restore-Methods 2
-    11-Download-Presentation-Deck
 
 06-Security
 
